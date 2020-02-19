@@ -1,0 +1,236 @@
+body {
+}
+
+.flower {
+    width: 137px;
+    height: 174px;
+}
+.startpic {
+    width: 24px;
+    height: 18px;
+    margin-right: 0px;
+}
+.visa {
+    float: right;
+    margin-top:6%;
+    margin-right: 15%;
+    width: 80px;
+    height: 64px;
+    border:1px groove;
+}
+.paymentpic {
+    width: 26px;
+    height: 23px;
+}
+.cancelpic {
+    width: 24px;
+    height: 18px;
+    margin-right: 0px;
+}
+.Pagetitle{
+    color:midnightblue;
+    font-family:Arial;
+    font-style:normal;
+    padding-top:1%;
+    padding-left:3%;
+}
+.Firstbar {
+    height: 31px;
+    background-color: yellowgreen;
+    width:auto;
+}
+.contentbody{
+    max-width:800px;
+    margin:auto;
+    padding:10px;
+    border:groove;
+}
+.FullDiv{
+    display:flex;
+}
+.leftpadding{
+    float:left;
+    width:30%;
+}
+.rightpadding {
+    float:left;
+    width:70%;
+}
+.list{
+    width:190px;
+    height:22px;
+}
+.lblPaymentMethod{
+    font-family:Arial;
+    font-size:16px;
+}
+.lblPay{
+    padding-left:20px;
+    color:black;
+}
+.lblDescription{
+    font-family:Arial;
+}
+.lblItemOrdered{
+    padding-left:48px;
+    margin-left:15px;
+}
+.lblAmount {
+    font-family: Arial;
+    margin-top: 10px;
+}
+.lblEuro{
+    margin-left:15px;
+    padding-left:72px;
+}
+.SecurePayment{
+    font-family:Arial;
+}
+.lbllanguage{
+    font-family:Arial;
+}
+.SecondDiv{
+    background-color:#fccc9e;
+    width:493px;
+}
+.thirdDiv {
+    background-color: #fccc9e;
+    width: 493px;
+}
+.CardDetails {
+    background-color: yellowgreen;
+    color:white;
+    height:20px;
+    width:493px;
+    font-family: Arial;
+}
+.auto-style1 {
+    width: 29px;
+    height: 33px;
+}
+.CardHolderDetails {
+    background-color: yellowgreen;
+    color: white;
+    height: 20px;
+    width: 493px;
+    font-family: Arial;
+}
+.lblCard {
+    font-family: Arial;
+    font-size: 15px;
+}
+.inputCard {
+    margin-left: 40px;
+    width: 250px;
+    height: 12px;
+}
+.inputCode {
+    margin-top:2%;
+    margin-left: 7.2%;
+    width: 50px;
+    height: 12px;
+}
+.selectDatemonth{
+    margin-top:2%;
+    margin-left:10.5%;
+    width:50px;
+}
+.selectDateyear{
+    margin-left:20px;
+}
+.inputCardName {
+    margin-top:2%;
+    margin-left:1%;
+    width: 250px;
+    height: 12px;
+}
+.inputAddress1 {
+    margin-top:2%;
+    margin-left: 63px;
+    width: 250px;
+    height: 12px;
+}
+.inputAddress2 {
+    margin-top: 2%;
+    margin-left: 60px;
+    width: 250px;
+    height: 12px;
+}
+.inputRegion {
+    margin-top: 2%;
+    margin-left: 15.75%;
+    width: 250px;
+    height: 12px;
+}
+.inputZipCode {
+    margin-top: 2%;
+    width: 250px;
+    height: 12px;
+}
+.selectCountry {
+    margin-top: 2%;
+    margin-left: 15.2%;
+    width:200px;
+}
+.telephone {
+    margin-top: 2%;
+    margin-left: 11.5%;
+    height: 12px;
+    width: 180px;
+}
+.Fax {
+    margin-top: 2%;
+    margin-left: 20%;
+    height: 12px;
+    width: 180px;
+}
+.emailaddress {
+    margin-top: 2%;
+    margin-bottom:1%;
+    margin-left: 6.5%;
+    height: 12px;
+    width: 51%;
+}
+.thirdDiv{
+    background-color:white;
+}
+.StartAgain{
+    text-decoration:none;
+}
+.Makepayment{
+    text-decoration:none;
+    margin-left:36%;
+}
+.Cancelpayment{
+    text-decoration:none;
+}
+.lblrefund{
+    margin-left:1%;
+    font-family:Arial;
+    color:steelblue;
+}
+.lblrefundinfo {
+    font-size:small;
+    font-family: Arial;
+    color: steelblue;
+}
+.lblworldPay{
+    font-size:medium;
+}
+.footerColor {
+    background-color: yellowgreen;
+    text-align: center;
+    height: 50px;
+}
+.footerContent {
+    font-family: Arial;
+}
+#validCard, #securecode, #validCountry, #validdate, #holderName, #holderaddress, #validzipcode, #holderTown, #validphone, #validfax, #validemail {
+    margin-left: 30%;
+    color: red;
+}
+.question
+{
+    float:right;
+    margin-right:-7%;
+}
